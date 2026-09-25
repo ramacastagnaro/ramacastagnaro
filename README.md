@@ -14,7 +14,7 @@
 
 ## Sobre mí
 
-- 🏗️ Desarrollo el ERP de **SWAT Indumentaria** en un equipo Scrum de 6 personas, con agentes de IA en una arquitectura multiagente (Gentle-AI) y desarrollo guiado por especificaciones (SDD).
+- 🏗️ Desarrollo el ERP de **SWAT Indumentaria** en un equipo Scrum de 6 personas, con agentes de IA en una arquitectura multiagente (Gentle-AI + OpenCode) y desarrollo guiado por especificaciones (SDD).
 - 🏋️ Construí el marcador digital de votación de jueces para la **Asociación Salteña de Powerlifting**, usado en 2 competencias federadas y previsto para un campeonato nacional en 2027.
 - 🤖 Uso la IA de forma estructurada: Spec-Driven Development (SDD) y Receipt-Driven Development (RDD) con Gentle-AI.
 - 🧪 Acompaño cada historia de usuario con tests unitarios, de integración y de endpoints HTTP.
