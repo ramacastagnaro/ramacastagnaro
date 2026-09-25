@@ -19,7 +19,7 @@
 - 🤖 Uso la IA de forma estructurada: Spec-Driven Development (SDD) y Receipt-Driven Development (RDD) con Gentle-AI.
 - 🧪 Acompaño cada historia de usuario con tests unitarios, de integración y de endpoints HTTP.
 - 🔜 Estoy empezando un sistema de gestión para gimnasios.
-- 🏋️‍♂️ Fuera del código: powerlifting.
+- 🏋️‍♂️ Fuera del código: Atleta de powerlifting.
 
 ## Proyectos destacados
 
