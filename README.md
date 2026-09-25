@@ -1,4 +1,4 @@
-<h1 align="center">Ramiro Valentín Castagnaro</h1>
+<h1 align="center">Ramiro Castagnaro</h1>
 
 <p align="center">
   <b>Desarrollador de Software · IA y automatización</b><br>
