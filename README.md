@@ -1,7 +1,7 @@
 <h1 align="center">Ramiro Valentín Castagnaro</h1>
 
 <p align="center">
-  <b>Desarrollador Full Stack · IA y automatización</b><br>
+  <b>Desarrollador de Software · IA y automatización</b><br>
   Estudiante de 4.º año de Ingeniería en Informática (UCASAL) · Salta, Argentina
 </p>
 
